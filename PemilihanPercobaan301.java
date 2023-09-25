@@ -29,6 +29,8 @@ public class PemilihanPercobaan301 {
          hasil = angka1 / angka2;
          System.out.println(angka1 + " / " + angka2 + "=" + hasil);
          break;
+         default:
+         System.out.println("operator yang anda pilih tidak sesuai");
      }
     }
 }
